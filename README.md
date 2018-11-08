@@ -9,7 +9,7 @@ Geburtsdatum: 30.30.3000
 > LieblingsZitat: “Hallo”
 
 ```java
-System.out.println("Hello 
+System.out.println("Hello"); 
 ```
 
 | a    | b    | c    |
