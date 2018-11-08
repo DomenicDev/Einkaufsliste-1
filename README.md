@@ -18,3 +18,4 @@ System.out.println("Hello
 | g    | h    | i    |
 | j    | k    | l    |
 
+![tesla-roadster](tesla-roadster.jpg)
